@@ -9,6 +9,6 @@ This repo offers various math methods used as a helper for your project.
 
 #### Connect me via:
 [My facebook](https://www.facebook.com/profile.php?id=100013950945112)
-[My email](mailto: hocvien28diem@gmail.com)
+[My email](hocvien28diem@gmail.com)
 
 © 2021 Vo.Trong.Dat
