@@ -1,4 +1,7 @@
 ## Welcome to Math Utility repository.
+
+[![MathUtil project | CI process included | © 2021 by Vo Trong Dat](https://github.com/datvt1072000/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/datvt1072000/math-util/actions/workflows/mathutil-ci-actions.yml)
+
 This repo offers various math methods used as a helper for your project.
 
 ### *_You will find in this repo the following stuff:_*
